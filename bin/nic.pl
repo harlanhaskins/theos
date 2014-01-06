@@ -43,7 +43,7 @@ loadConfig();
 my $clean_project_name = "";
 my $project_name = "";
 my $package_prefix = $CONFIG{'package_prefix'};
-$package_prefix = "com.yourcompany" if !$package_prefix;
+$package_prefix = "com.harlanhaskins" if !$package_prefix;
 my $package_name = "";
 my $username = $CONFIG{'username'};
 $username = "" if !$username;
